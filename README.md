@@ -161,7 +161,7 @@ The analysis provides detailed statistics for each stock:
 - **Expected Returns**: CAPM-based annual return estimates
 - **Idiosyncratic Risk**: Stock-specific variance
 
-![Regression Results](images/regression_results.png)
+![Regression Results](images/Regression%20Results.png)
 
 ## Optimisation Constraints
 
@@ -170,14 +170,14 @@ The analysis provides detailed statistics for each stock:
 - **Budget Constraint**: w'1 = 1 (full investment)
 - **No Short Selling**: w ≥ 0
 
-![Efficient Frontier - Equality Constraint](images/efficient_frontier_equality.png)
+![Efficient Frontier - Equality Constraint](images/Efficient%20Frontier%20(Equality%20Constraint).png)
 
 ### Inequality Constraint
 - **Return Constraint**: w'μ ≥ μₚ (minimum target return)
 - **Budget Constraint**: w'1 = 1 (full investment)
 - **No Short Selling**: w ≥ 0
 
-![Efficient Frontier - Both Constraints](images/efficient_frontier_both.png)
+![Efficient Frontier - Both Constraints](images/Efficient%20Frontier%20(Equality%20and%20Inequality%20Constraint).png)
 
 ## Error Handling
 
